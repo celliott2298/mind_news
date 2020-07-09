@@ -1,0 +1,561 @@
+# YTD_Map
+
+![Year To Date Map](C:\Users\Conner Elliott\Projects\Current Market Analysis\YTD_2020\YTD_map.svg)
+
+
+## Rates / Bonds
+
+
++ CLO and CDO's Return (June)
+
+CLOs have come back into the limelight for the epitome of bad investing, 245
+of the CLOs were holding some portion of Hertz, J. Crew and Neiman Marcus debt.
+Those three companies have filed for bankruptcy protection. Despite this bad
+behavior what has been more alarming is the government's unmitigated/
+unwavering commitment to bolster the market instead of allowing bad businesses
+to fail. CLO's I don't believe are to blame they sell risky debt to investors
+who salivate for higher returns - who also understand the consequences, safer
+aspects of the debt become triple A rated, and many who work in the industry
+say they didn't default during 08' and are unlikely to default now. But what
+is different now is that the Private Equity buyouts have doubled in numbers and
+the leveraged debt market has doubled. What the key takeaway is that with CLOs
+being at risk it means the next rounds of buyouts by PE firms will be harder to
+back with funds and they have traditionally been the sources of capital. So,
+PE firms will have source new capital.
+
+
++ Canada Notched Down (June)
+
+Fitch ratings notched Canada's triple A rating down due to their financial
+measures to deploy capital into the economy, as a result they owe roughly 12%
+of their GDP. Correspondingly, fitch notched their rating down. This most likely
+won't have a meaningful impact on the cost of borrowing, as Canada is a pretty
+safe haven for investors and it has not seemed to show a sharp spike in their
+yield.
+
+
+###. Inflation on the Horizon? (June)
+
+What is most important to recognize during this time of the Federal Reserves
+programs such as the CARE act and the legislation that was passed to deploy
+funds to support businesses might have serious ramifications for inflation in
+the economy. Inflation being an oversupply of money - prices rising in the
+economy. It hasn't happened yet, but with guaranteed loans through by the
+government and bolstering of corporations who need relief is not going to bode
+well in the long run. More and more companies are coming online who will be
+propped up through artificial rates. The likelihood of the government clawing
+back debts is not likely - we spend superfluously and there appears to be no
+end in sight. With rates already at zero, the only option is to keep issuing
+loans.
+
+
+### Bond Market Supported by Fed (June)
+
+The Federal Reserve will begin bolstering the corporate bond market -
+investment grade debt through index funds, while also providing backstops to
+continue any additional funding needed by the corporations. This comes as a
+bit of an odd placement as the Federal Reserve is running out of avenues to
+provide financial support to the economy. I am not quite sure why they are
+supporting businesses through this way, because to some extent they need to
+stop holding the hands of all the businesses. It is like pruning, it may be
+quite a pain right now but it will make for better outcomes in the long run.
+
+
++ Fed's Ninth Debt Facility (June)
+
+This is the Fed's 9th debt facility which was opened this past Monday -
+totaling $500 Billion to support issuance of new debt by large corporations.
+The Fed will participate in two ways, it will purchase eligible loans and bonds
+next to investors and also act as the sole investors. The last option which is
+almost like a bailout - said those bonds would have a capped spread.
+Furthermore, companies that were investment grade prior to March 22nd, would be
+eligible.
+
+In total, the Fed has amassed $8.7 billion in debt or ETFs that invest in
+corporate debt to provide liquidity to the market and reduce borrowing costs
+to now troubled investors. In relation to government debt, yields have stayed
+near lows, as investors flock into these safe assets due to the growing
+number of Covid-19 cases.
+
++ Mortgage Market Tightens (June)
+
+Politician's are calling for the pausing of key debt repayments to mortgage
+lenders as hotels, shopping malls has been struggling to make payments due to
+the lockdown of the economy. A data point provided by the Wall Street Journal
+said 'some 7.15% of CMBS loans were 30 or more days delinquent at the end of
+May, including 19% of hotel loans and 10% of retail loans, according to data
+from Trepp.' While it is not said in this article, but these were two
+industries that had disruption this decade - particularly from e-commerce
+giants Amazon and hotel alternatives such as AirBnB.
+
+
+
+### Rates Near Zero to 2022 (June)
+
+The Federal reserve signaled to investors that they plan to keeps rates
+steady through 2022. This statement was backed by Powell discussing that
+they are 'not even thinking about raising rates'. The Fed is going to keep
+to keep pace with buying mortgages and securities. Recall, that the Fed has
+purchased so far $2 trillion treasuries and mortgages since Covid-19 started
+to provide liquidity - this is different from past measures which were used to
+primarily push down long-term rates, the Fed is instead focusing on providing
+smooth markets.
+
+The main confusion is how the Fed is going to communicate their guidance in the
+coming years. Typically this is known as 'forward guidance', but the Federal
+Reserve is not sure how they will do this, whether it be inflation targeting, or
+through tying it to certain dates, and buying as needed to reinforce that rate.
+They will keep this guidance vague as it is not clear when markets will recover
+likely to recover when a vaccine is commercialized.
+
+
++ Conflicting Data (June)
+
+Investors are still trying to grapple with the data that is coming in about
+markets. While retail sales were up and manufacturing data was contracting at
+a slower pace than anticipated - indicating we may be bottoming out. However,
+Covid-19 cases are still rising. As a result treasuries are trading in a
+narrow range. Additionally, the economy needs to see jobless data show
+improvement, as recovery money stops on July 31st the labor market needs to be
+materially better or we'll hit a deeper low. JPM analysts expect unemployment
+to stay at 10% or above till the year end. JPM also expects issuances of Fed
+monies of 4.8 trillion, net of treasuries. Furthermore, the S&P, NASDAQ and
+Dow Jones have told very different stories. The NASDAQ has done quite well
+mainly fueled by technology, but the Dow Jones has done much worse.
+
+
++ Yield Shows Pessimism (June)
+
+The yield ended at .698 on the 10-year, showing people's pessimism in the market,
+this is further backed by the Federal Reserve's commitment to have rates stay
+steady through 2022. The yield has stayed stagnant - this yield is what is used
+to gauge everything from student loans, to mortgages. The Federal Reserve is
+going to stay committed (what is believed by most) so that borrowing costs can
+stay low for businesses and allow the economy to breath. We did see the yield rise
+last week - which was based on the data that the economy is adding jobs which
+was not expected.
+
+After initially leaning on short-term Treasury bills to fund the trillions of
+dollars in economic-relief programs passed by Congress, the Treasury Department
+in early May announced a shift to longer-term bond sales, increasing the size of
+regular 10-year note auctions by $5 billion and 30-year bond auctions by $3
+billion.
+
+Supply pressures have further been exacerbated by a deluge of bond sales from
+companies looking to stock up on cash as they try to weather the economic
+downturn. Nonfinancial companies have sold more than $650 billion of investment-
+grade bonds in the U.S. market since the start of March, shattering previous
+issuance records, according to Dealogic.
+
+Some analysts argue that longer-term Treasury prices could still drop sharply
+again if economic data improves - as that would show that the long-term outlook
+is looking much more promising and that investors would buy those safe bonds at
+a discount.
+
+
+
++ Euro Junk Debt Rallies (June)
+
+Recently the European High-Yield debt has begun to rally as investors are
+seeking outsized returns to combat current market conditions. This is been a
+similar trend in the United States, with junk debt rallying so investors can
+chase higher returns. The spread (recall this is the extra yield over
+government securities), for Europe was 4.69, and the U.S. it is 5.69. This
+shows two different tales, Europe has not rushed to get cash, while U.S.
+companies have rushed for cash pushing yields higher, Europe's have remained
+more conservative.
+
+This rationale is backed by central bank policies. ECB has not made it as much
+of a priority to support 'fallen angels', while the Federal Reserve has made it
+a much more apparent goal to support these companies and their issuances. With
+respect to U.S. markets, there has been more robust and promising data to
+support companies with poor credit. Interesting point, is S&P projects the
+corporate default rate could rise to 8.5%, up from 2.4% in March. Furthermore,
+it should be noted that cash is piling up in Europe as investors braced for a
+prolonged crisis, so any high-yield issuances would be well-received.
+
+
++ Economy Savings Changing (June)
+
+It was stated by Powell that the economy was going to reach a point where
+it was going to feel long lasting changes by Covid-19. I am not so sure if it
+is so much because of the pandemic or more so by the Federal Reserve's
+meddling with economy. The personal savings rate has reached 33% in the U.S
+and for the Euro-Zone it is up to 19%. We've seen high flows into money-market
+funds by domestic investors and foreign investors we've seen flooding into
+dollar denominated assets. Another article I read discussed that the stimulus
+checks sent out by the government when it stops (July 31st) will dramatically
+make the economy buckle. I am not sure how widespread that effect will be, at
+some point the government has to stop printing money and providing funding and
+open the economy back up.
+
+### Fed may Mimic YCC Policies (July)
+
+The Fed is toying with an idea of capping yields on government bonds, but this
+move needs to be heavily weighed as medium yields are an important benchmark
+for the rest of the investing world. Meddling/artificially messing with the
+rates set could distort the market mechanisms.
+
+But part of this is seen as a way for the Fed to finally to rid the debt by
+inducing inflation and growth, inflation helping to get rid of debt. This
+strategy is seen as a way for investors to get out of government bonds and
+focus on investing in the market. But inflation cannot seem to get off the
+ground.
+
+This is especially important following the news of investors seeking higher
+returns through the municipal market. It seems that if YCC policies were to
+ensue markets may price higher yields in order to satisfy investors appetite.
+
+## Deals
+
+
+### IPOs
+
++ Virtual IPOs - Big Benefits (July)
+
+Virtual IPOs have become something that isn't to be dreaded but enjoyed by
+bankers and management. While it seemed initially that it would make life more
+challenging, it has come with bright spots; less time traveling on road shows,
+condensed investor meetings virtually, no management presentations slides to be
+printed, less fees charged for travels and management celebrating with family.
+This does not mean things are more easy to time markets - with data coming in
+that seems to gaslight investors, it is just one small bright spot in this mess.
+
+
++ Lemonade to go Public (June)
+
+Insurance startup lemonade is set to go public later this year, the fintech
+insurance company is valued at around 1.43 billion. They are looking to shake
+the insurance company by eliminating brokers and providing claims in under 3
+minutes. GS, Barclays and MS are the underwriters.
+
++ Postmates IPO Revives (June)
+
+Postmates has revived plans for an IPO following Covid, as stay at home meal
+orders have surged. It has received a lot of interest such as M&A interest
+from Uber. This comes after Just Eat Takeaway proposed a $6 billion of Grubhub
+to create a trans-atlantic giant. Postmates was last valued at $2.4 Billion
+when it raised $225 million in September. Instacart doubled its valuation to
+$13.7 billion
+
+
+### Bankruptcy Filings
+
++ GNC Files for Bankruptcy (June)
+
+Tuesday night GNC filed for Bankruptcy, planning to close between 800 - 1200
+stores. It plans to be either sold, or shed $300 million of its debt load.
+
++ Chesapeake Files Chapter 11 (June)
+
+Chesapeake energy filed for Chapter 11 on Sunday, their strategy is aimed at
+cutting off $7 Billion in Debt and raise $600 million rights offering, they
+are able to draw upon $325 million from Chapter 11 financing to cover expenses.
+This list adds to others who have filed for Bankruptcy such as Hertz, JC Penny,
+Chuck E. Cheese and GNC.
+
++ Chinese Energy Co Defaults (June)
+
+A Chinese energy company defaulted today, this is just the latest in a
+string of companies defaulting and it is of no surprise it was an energy
+company. The company was Hilong Holding Co.
+
+#### Wirecard's Fall (June)
+
+After a 2 billion dollar accounting hole was found in WireCard's books their
+share price has plummeted and their CEO was arrested. The big takeaway from
+this scandal is that countries try to keep a light touch with regulation as
+they hope that a given company if given space it can become the next billion
+dollar unicorn such as Amazon or Google. What turns into a light touch, appears
+that Germany became more of a cheerleader. As a result, WireCard had a massive
+scandal. It should be a message to the broader investor base about fintech, that
+one should use caution. In Germany's case they banned short-selling the stock
+and filed complaints against those who defamed it.
+
++ WireCard NA for Sale (June)
+
+Wirecard North America has put itself up for sale, after the troubled parent
+firm filed for insolvency, the unit was formely known as Citi Prepaid Card
+Services.
+
+### Investments
+
+
++ Toyota Invested in Uber (June)
+
+Toyota has a $293 Million stake in Uber, they own roughly .6% of the
+outstanding shares of Uber.
+
++ Dailmer to Sell French Plant (July)
+
+Dailmer - owner of Mercedes and Smart is putting its plant up for sale in
+France, they decided to move operations to China, France pleaded for them to
+stay but it does not look like they will.
+
+The signal here is that China still remains a hub for manufacturing and
+luxury car makers must look to cut costs in order to stay afloat.
+
++ Apple makes its own Chips (June)
+
+Apple announced they will start making their own computer chips for its Macs and
+iPads, they typically in the past have used Intel's x86 chip. Apple's R&D
+expenses are some of the highest in the world but analysts believe it is two
+years or so till they can have a fully functioning chip. Apple is working to
+improve its ARM chip which is used in smartphones, but intel's x86 has been
+always seen as superior. Finally, Apple only accounts for less than 5% of
+Intel's revenue so this is not a massive blow to Intel.
+
++ Virgin Signs w/ Spirit Aero (June)
+
+Virgin airlines signs a manufacturing deal for its hyperloop plans with Spirit
+AeroSystems holding. This news is important because Spirit is shifting away
+from Boeing, they typically make their money through supplying Boeing. Virgin
+airlines is expected to be up by 2029, and they have raised most of their
+money from UAE.
+
+### Private Equity
+
++ PE is Approved for 401k (June)
+
+Interestingly enough PE was approved to be used in 401k plans. Typically, PE
+has been used for pension plans but before it wasn't used in 401k target date
+funds. This comes as a huge win for PE as they have been trying to tap the 7.9
+trillion dollar market for 401k retirement packages. Partners Group and
+Pantheon Ventures were the two firms that introduced 401k plans to investors.
+Still there are logistical issues to hurdle - such as how they can still have
+lock-up periods, but the main one is, can PE returns still outperform S&P and
+other metrics in a meaningful way? It appears they can only outperform by a bit.
+
+
+
+
+
+## Oil
+
+
+
+### Oil Shoots up (June)
+
+During the Covid-19 lockdown the price of oil fell to historic lows, but now
+as the economy seems to be thawing out from a freeze, it is shooting up. But it
+appears to be shooting up because investors are looking to cash in, other risky
+assets such as stocks are shooting up at a sort of unfounded optimism. Supply is
+high and demand is low, the fundamentals are not founded, but prices appear to be
+be pushed up. OPEC and Russia did agree to cut production by 9.7 million barrels
+a day to help stabalize price which I am sure helped investors ease their
+confidence a bit more. Inventories are still rising, once they begin to decline,
+I would imagine investors optimism will finally be founded.
+
+
++ Oil Refiners Squeezed (June)
+
+The domestic benchmark for oil prices are U.S. crude-oil prices such as WTI and
+the international standard is Brent-crude futures. Due to the odd shift in
+demand and supply where prices are rising but demand being slammed, it put
+refiners in a very odd position. As they were buying crude at higher prices
+but they had no market to sell in. Refiners will be in a bad position as they
+still have swollen inventories and no need to buy oil. If the pain was pin-
+pointed it would be in Northwest Europe and Mediterranean who run on Russian
+crude, Urals which is the main grade of exported by Russia has shot up
+because of Russia's participation in supply cuts.
+
++ Oil Crushes Investors (July)
+
+Investment services have spent years making oil products easy for investors
+to use and trade with, however, these products were not designed to encompass
+the markets unpredictability. When oil futures moved to negative, investor
+platforms could not handle the issue. Many investors who were holding futures
+which if not sold, must take the delivery of the oil. But when prices slid to
+be negative, investors were not able to sell the futures and were stuck to
+take the losses. Many investors were not able to offload the product because of
+the platforms, but this does not go without saying that many research reports
+were indicating that oil could go negative. Investors were warned.
+
+The broader implication of this event is that regulators will need to examine
+commodity trading among ordinary investors and make more stringent policies in
+how trading works in these areas.
+
++ Oil Tankers Seized, Strained OPEC (July)
+
+Oil tankers were seized that were headed to Venezuela from Iran, this is due to
+efforts from the United States to follow through with its embargo and financial
+strains it is imposing on Iran and its commitment to oust the Venezuelan
+regime. It was able to seize a fleet of tankers and stop payments to the
+Royal Guard.
+
+Additionally, strains seem to be highly apparent between OPEC members as
+Nigeria and Angola have yet to submit plans to show how to cut oil prices,
+oil prices took a massive dive earlier this year after a price war between
+Russia and Saudi Arabia ensued. If there is a price war again, and this time
+it would mostly effect China, as Angola and Nigeria produce a very light crude
+that is desirable in China global prices would be effected greatly.
+
+### Electricity in Texas (June)
+
+Being a power producer of electricity in Texas is a great position to be in,
+Texas has been on an upward trend over the last few years - this is
+accompanied by a growing population base. What is most bizarre about this
+market is that electricity demand is set to fall to the lowest point in years.
+Despite oil and gas's weak figures, they do tap into the grid and the numbers
+for drilling are quite down - yet the market is still on pace to grow.
+
+What is most interesting is that Texas has a very free-market approach to its
+power system. Most other states follow strict guidelines and have very rigid,
+artificial market structures to keep pricing below a certain threshold. Part
+of their open market approach means that they have an operating margin, where
+if supply falls below a certain level, prices become higher.
+
+
+### Possible Iran Sabotage (July)
+
+Iran claimed there might have been possible sabotage after several facilities
+sustained explosions, specifically at Natanz which is where their key
+uranium-enrichment facility is, the week prior, a blast hit a ministry defense
+facility. This comes at a time when the U.S. is at an economic war with Iran.
+Furthermore, the rest of the world is trying to cool off their nuclear efforts
+mainly due to their deep-seated issue against U.S. ally, Israel.
+
+Tensions have been high since Trump withdrew from the 2015 nuclear deal and
+imposed tough sanctions on Iran in 2018. But the blasts come at a time when
+there is not much faith in their government after they 'had a plane shot down'
+but later to find it way the Royal Guard's fault.
+
+The broader thing to takeaway is that tensions are high, and something needs to
+give soon as Iran is being backed into a corner economically.
+
+
+## Political
+
++ India Bans TikTok (June)
+
+After a clash at the disputed himilayan border with China that left 20
+Indian soldiers dead, Prime Minister Modi banned TikTok and WeChat - a move to
+help answer domestic cries to retaliate towards China. The big financial
+implication of this move - is that India is considered one of the biggest
+untapped markets for tech companies. Google has tried 'India first' approaches
+where their Maps app has an option for rickshaws and will buzz when there is
+deviation from the path. Additionally, India has warned firms of working with
+Chinese companies to install 5G infrastructure.
+
+Furthermore, India has become a battleground between the U.S. and China, where
+the United States - where the U.S. has been calling for allies to shun
+Chinese technology especially from Huawei. Additionally, the U.S. has been
+weighing if TikTok poses a national security threat - though I doubt they could
+garner enough support to ban it, as popular as it is with younger generations.
+But a bill was posed to ban TikTok from government issued phones to federal
+employees so that there could be no 'data leaks'.
+
+
++ Bezos Willing to Testify (June)
+
+Jeff Bezos is willing to testify in front of Congress alongside other tech
+leaders regarding anti-trust procedures. This is following the news that
+Amazon employees had used sensitive third-party business information to develop
+competing products on its platform. Essentially they had an unfair advantage
+over others and used its marketplace role to abuse others. Amazon has fired
+back saying their products account for less than 4% and they follow all rules.
+
+Bezos frequents Washington - as he owns the Washington Post and Amazon
+frequently contracts with the government. Amazon did lose out on the 10 billion
+dollar cloud computing contract with the pentagon last year to Microsoft. Other
+companies that will be testifying are Apple, Alphabet and Facebook.
+
+
++ North Korea blows up Office (June)
+
+The North Korean regime blew up a liaison office that was jointly used by
+the South Koreans. It was a push back after anti-establishment leaflets made
+its way across the border. This comes after they have stated they continue
+to bolster their nuclear arms - they even said their relationship with the U.S
+has worsened. Furthermore, Trump was the first president to meet with Kim,
+so if he is not re-elected it may mean worse tensions. They do risk upsetting
+Russia and China, their only allies
+
+
+
++ Potential New Tariffs (June)
+
+The U.S. said it could impose new tariffs on U.K., France, Germany and Spain
+over disputes over subsidies to aircraft manufacturers, namely Airbus SE.
+It would total upwards of $7.5 billion, namely, chocolate, coffee, olives,
+vodka, gin, beer and potatoes. Part of this story is that a better trade deal
+with the EU has remained elusive, trade team of the White House has commented
+that it does not look good in the short run, for the trade tensions between
+the U.S. and the EU. The targeting of foodstuffs is meant to culturally effect
+the EU, even though this dispute is over aircraft manufacturing.
+
+## Financials
+
++ Banks Warned Before Outbreak (June)
+
+Prior to the rapid spread of Covid-19, Dr. Farrar warned money managers and
+banks of the Covid-19 situation. Covid had started to spread, but Farrar told
+money managers such as Valiant Capital, the Blackstone Group and others of how
+dynamic this disease could be. Farrar has advised the U.K and Germany of
+infectious diseases. Apparently they had released other public statements to
+understand the 'science' behind the disease. The call occurred on January 31st
+of this year.
+
++ World's Best Big Lender, DB (June)
+
+Despite the troubles Deutsche has been going through, it is the best lending
+bank on record. Investors shouldn't become too bullish on the bank just yet.
+The Federal Reserve recently hit them with weak money-laundering controls, and
+they were at all time lows with Covid and their troubled past. The bank has
+been trying to stick to its plan under Sewing, which is to cut costs, limit
+risky asset exposure, and limit U.S. exposure. It is noteworthy that at least
+they never took a part of the bailout.
+
+Many were skeptics of Sewing, as they did not believe he could cut 18,000 jobs
+by 2022 and they were ready to write him off after a failed merger with
+Commerzbank Ag. They did transfer their prime brokerage business to BNP Paribas
+last year. Its core business has been focused on Germany - which has been
+overbanked and thus unprofitable. But they have been disposing of risky assets
+at a very fast rate which makes investors more comfortable with the company.
+But Germany has been spending a great deal to keep businesses afloat, and it
+has relatively fewer cases than other countries - which means overall Germany
+is expected to recover faster than others.
+
++ Probes Against Exchange Data (June)
+
+Big banks and other financial industry experts have been complaining against
+about the fees that are charged by exchange services such as NYSE, NASDAQ and
+CBOE. From 2014 to 2017 total annual revenue from market-data surged 45% to
+$2.3 billion, the big data providers say that if the firms do not wish to pay
+for the data they can use public data feeds which are much slower and contain
+less data. So, the SEC and the U.S Justice Department will team up and provide
+much more scrutiny over the data providers.
+
+
+## Data
+
+
+### Covid Data
+
++ Covid Cases Surge (June)
+
+Coronavirus infections have surged in states such as Arizona, Texas and
+California. California's governor said they may start enforcing stricter
+social distancing policies to help quell the number of new cases.
+
+### Jobs Report
+
++ Jobs Rebound, Gloomy August Ahead (July)
+
+The job report that came out showed jobs were added 11.1 million and the rate
+fell to 11.1% from 13.7%. This is a positive sign and it is ending the week on
+a much better note - but data analytics from Johns Hopkins and JPM show that
+as jobs are added and local spending increases it is becoming a predictor of
+new cases in the U.S, and high contact job rate falls so do Covid cases. It
+appears that there is a trade-off to be had, and while jobs may be added we are
+seeing that cases are soaring, but states are clamping down on re-opening
+efforts with New York and New Jersey post-poning indoor dining indefinitely.
+
+### Retail Data
+
++ Sales Rise by 18% (June)
+
+Surprisingly good news was that retail sales had jumped up 18%, most of this
+appears to be stemming from pent up savings of consumers. This was after 3
+months of declines in sales in stores. But many believe there will be a fading
+of the stimulus checks quickly before the panic is over.
